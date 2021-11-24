@@ -1,0 +1,13 @@
+.card{
+    width: 15rem;
+    height: 20rem;
+    margin-bottom: 50px;
+    text-align: center;
+
+}
+.card__title{
+    text-decoration: none;
+    color: #000000;
+    font-size: 17px;
+    margin-top: 10px;
+}
